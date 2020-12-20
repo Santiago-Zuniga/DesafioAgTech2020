@@ -1,0 +1,8 @@
+# python==3.6
+numpy==1.19.2
+earthengine-api==0.1.241
+pandas==1.1.5
+tsaug==0.2.1
+sklearn==0.23.2
+tensorflow==2.3.0
+keras-swa==0.1.5
